@@ -39,7 +39,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: lightyellow;
 }
 
 .navbar-collapse {
@@ -61,11 +61,11 @@ body {
 
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #fe9797;
+    text-shadow: 1px 1px 1px lightyellow;
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: lightyellow;
 }
 
 #nav-list a {
